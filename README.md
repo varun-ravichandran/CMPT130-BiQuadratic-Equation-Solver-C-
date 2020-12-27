@@ -1,1 +1,2 @@
-# BiQuadratic-Equation-Solver-C-
+# CMPT130-BiQuadratic-Equation-Solver-C++
+
